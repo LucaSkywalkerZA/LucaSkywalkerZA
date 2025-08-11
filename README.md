@@ -24,7 +24,6 @@ I am the Systems Lead and Hardware Developer for Airponix Ltd, an innovative Agr
 - Microcontroller Firmware Development and Sensor Integration and Battery Operation
 - LoRaWAN IoT Network Commissioning and Management
 - IoT Electronics and RF Design
-- ChatGPT Enhanced Work Efficiency
 - Proficient in Linux
 - Emphasis on Logical and Robust Design Principles
 - Continuous Self-Education
