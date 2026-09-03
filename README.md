@@ -1,42 +1,30 @@
-# Who is Luca Ruggier?
+# Luca Ruggier
 
-I am Luca Ruggier,
-I am [today.year - birth_date.year] years old with a Computer Engineering Honours from the University of Malta. I am currently based in Cape Town, South Africa.
-With a solid background in wireless communication and microelectronic systems, I strive to continuously expand my knowledge and skills. My passion for electronics, microcontrollers, and single-board computers (SBCs) emerged during high school and has driven me to primarily developing niche electronic systems that cannot be bought "off the shelf." 
-I am the Systems Lead and Hardware Developer for Airponix Ltd, an innovative AgriTech company solving food scarcity in regions where growing has previously not been viable. 
+Computer and electronics engineer based in Cape Town, South Africa. BSc (Hons) Computer Engineering, University of Malta.
 
-### Information
-- 📅 25/03/1998
-- 📞 +44 7833603913
-- 📞 +27 0650635444
-- 📧 luca@airponix.com
-- 📧 lucaruggier111@gmail.com
+I lead engineering, R&D and operations at [Airponix](https://airponix.com), an agricultural technology company developing dry-fog aeroponic growing systems. My work covers the full technical stack: embedded hardware, IoT sensor networks, computer vision, cloud infrastructure and the mechanical design of the growing structures. I design and build the systems, then deploy and commission them on site, most recently in the UK and Saudi Arabia.
 
-### Education
-- University of Malta — Computer Engineering [Sep 2019 - June 2022]
-- University of Malta — Electrical Engineering [Sep 2018 - Jul 2019]
-- University of Malta — Science and ICT Foundation Year [Sep 2017 - Jul 2018]
-- St. Henry’s Marist College, South Africa — Matriculation [Jan 2012 - Dec 2016]
+My interest in electronics, microcontrollers and single-board computers began in high school and has shaped a career focused on developing niche systems that cannot be bought off the shelf.
 
-### Skills
-- PCB Design and Debugging
-- 2D & 3D CAD, AutoCAD, Fusion360, Strength Modeling, Generation of Production Files.
-- Microcontroller Firmware Development and Sensor Integration and Battery Operation
-- LoRaWAN IoT Network Commissioning and Management
-- IoT Electronics and RF Design
-- Proficient in Linux
-- Emphasis on Logical and Robust Design Principles
-- Continuous Self-Education
+## Technical areas
 
-### Interests
-- IoT and Wireless Technologies
-- Military Aviation and Weapons Technology Development
-- Computer Networking
-- 3D Printing & Modeling
-- Competitive Overclocking
+**Embedded and hardware**: STM32, ESP32, Nordic, Raspberry Pi, FPGA, PCB design, low-power and battery-operated design, LoRaWAN, BLE, ESP-NOW, MQTT
 
-### Experience with
-- STM32, Espressif, Raspberry Pi, LoRaWAN, Nordic, FPGA
+**AI and computer vision**: PyTorch, YOLO, OpenCV; segmentation and classification pipelines from data capture through to production alerting; local LLM deployment on purpose-built hardware
 
-### Languages
-- Fluent: C, C++, Python, Bash
+**Infrastructure**: Linux, Docker, AWS, Grafana, PostgreSQL, MikroTik and UniFi networking
+
+**Mechanical**: Fusion 360, AutoCAD, structural load analysis, production drawings for CNC machining and welding
+
+**Languages**: Python, C/C++, Bash, Java/Kotlin (Android)
+
+## Projects
+
+- [DashSSM](https://dashssm.com): Android application for real-time Subaru ECU diagnostics on in-car head units, with a custom serial protocol for external sensor input
+- Wireless brake temperature telemetry system for motorsport use, ESP32-based, integrating with DashSSM and RaceChrono over ESP-NOW and BLE
+
+## Interests
+
+IoT and wireless technology, motorsport and ECU tuning, military aviation, computer networking, 3D printing, competitive overclocking
+
+lucaruggier111@gmail.com · [LinkedIn](https://linkedin.com/in/lucaruggier)
